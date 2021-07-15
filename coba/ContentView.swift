@@ -13,6 +13,7 @@ struct ContentView: View {
             Text("Hello, world!")
                 .padding()
             Text("Coba2 dulu").padding()
+            Text("Gamau Ah").padding()
         }
     }
 }

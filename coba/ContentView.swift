@@ -15,6 +15,8 @@ struct ContentView: View {
             Text("Coba2 dulu").padding()
             Text("Gamau Ah").padding()
             Text("Alah sok keren").padding()
+            
+            Image(systemName: "pencil")
         }
     }
 }
